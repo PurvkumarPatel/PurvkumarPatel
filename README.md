@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Dev<br>🌱 I’m currently learning AI/ML<br>⚡ I love to explore real life world and get more knowledgeable
+I’m currently learning AI/ML<br>⚡ I love to explore real life world and get more knowledgeable
 
 
 ## 🌐 Socials:
